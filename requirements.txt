@@ -4,7 +4,6 @@ Hypercorn==0.11.2
 numpy==1.21.2
 pandas==1.3.3
 pickleshare==0.7.5
-pydantic==1.8.2
 scikit-learn==1.0
 scipy==1.7.1
 seaborn==0.11.2
