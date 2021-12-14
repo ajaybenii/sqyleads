@@ -17,7 +17,7 @@ df1 = df1[["Searches","Filters","Shortlist","Enquiries","Photoclicks","PageView"
 @app.get('/')
 def index():
     
-    return {'message': "This is the home page of this API. Go to /apiv1/ or /apiv2/?name="}
+    return {'message': "This is the home page of this API. Go to /docs"}
   
   
   
